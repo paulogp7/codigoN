@@ -1,0 +1,21 @@
+<!DOCTYPY html>
+<html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8"/>
+	<meta name="description"  content="comentario"/>
+	<meta name="keyords" content="camputadores, site, etc"/>	
+	<title> titulo </title>
+	<style type="text/css">
+	.banner p{ color: red;}
+	
+	</style>
+	<!-- <link rel="stylysheet" type="text/css" media="all" href=""/> -->
+</head>
+<body>
+	<div class="banner">
+		<p>Texto </p>
+	</div>
+	<p>Texto</p>
+</body>
+</html>
